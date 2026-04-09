@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "段景住",
-    "image": "./imgs/level001.png",
+    "image": "/imgs/level001.png",
     "rows": 6,
     "cols": 8,
     "unlocked": true,
-    "thumbnail": "./imgs/level001.png"
+    "thumbnail": "/imgs/level001.png"
   },
   {
     "id": 2,
