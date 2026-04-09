@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "段景住",
+    "image": "./imgs/level001.png",
+    "rows": 6,
+    "cols": 8,
+    "unlocked": true,
+    "thumbnail": "./imgs/level001.png"
+  },
+  {
+    "id": 2,
+    "name": "时迁",
+    "image": "./imgs/level002.png",
+    "rows": 6,
+    "cols": 8,
+    "unlocked": false,
+    "thumbnail": "./imgs/level002.png"
+  },
+  {
+    "id": 3,
+    "name": "白胜",
+    "image": "./imgs/level003.png",
+    "rows": 3,
+    "cols": 3,
+    "unlocked": false,
+    "thumbnail": "./imgs/level003.png"
+  },
+  {
+    "id": 4,
+    "name": "小有挑战",
+    "image": "./imgs/level004.png",
+    "rows": 3,
+    "cols": 4,
+    "unlocked": false,
+    "thumbnail": "./imgs/level004.png"
+  },
+  {
+    "id": 5,
+    "name": "中等难度",
+    "image": "./imgs/level005.png",
+    "rows": 4,
+    "cols": 4,
+    "unlocked": false,
+    "thumbnail": "./imgs/level005.png"
+  },
+  {
+    "id": 6,
+    "name": "进阶挑战",
+    "image": "./imgs/level006.png",
+    "rows": 4,
+    "cols": 5,
+    "unlocked": false,
+    "thumbnail": "./imgs/level006.png"
+  },
+  {
+    "id": 7,
+    "name": "高手之路",
+    "image": "./imgs/level007.png",
+    "rows": 5,
+    "unlocked": false,
+    "thumbnail": "./imgs/level007.png"
+  },
+  {
+    "id": 8,
+    "name": "大师挑战",
+    "image": "./imgs/level008.png",
+    "rows": 5,
+    "unlocked": false,
+    "thumbnail": "./imgs/level008.png"
+  },
+  {
+    "id": 9,
+    "name": "极限挑战",
+    "image": "https://picsum.photos/400/400?random=9",
+    "rows": 6,
+    "cols": 6,
+    "unlocked": false,
+    "thumbnail": "https://picsum.photos/100/100?random=9"
+  },
+  {
+    "id": 10,
+    "name": "终极考验",
+    "image": "./imgs/level009.png",
+    "rows": 6,
+    "cols": 7,
+    "thumbnail": "./imgs/level009.png"
+  }
+]
